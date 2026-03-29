@@ -1,0 +1,17 @@
+"Enter student data (name, GPA, volunteer hours, essay score)",Scholarship Ranking Results,flag,username,timestamp
+"Alice,3.9,40,85
+Bob,3.7,60,90
+Cathy,4.0,20,88
+David,3.6,80,75","Scholarship Ranking:
+--------------------
+1. Cathy - 146.0
+2. Alice - 144.0
+3. Bob - 143.5
+4. David - 135.5
+
+Top 3 Candidates:
+--------------------
+Cathy - 146.0
+Alice - 144.0
+Bob - 143.5
+",,,2026-03-27 11:31:12.048455
