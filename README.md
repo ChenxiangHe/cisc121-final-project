@@ -1,4 +1,4 @@
-# Scholarship Shortlist Organizer
+[# Scholarship Shortlist Organizer
 
 ## Project Overview
 This project is a small Python application for helping rank scholarship applicants based on their academic and extracurricular performance.
@@ -173,3 +173,8 @@ This project shows how a sorting algorithm can be applied to a realistic real-wo
 By using Merge Sort, the program can organize scholarship applicants fairly and efficiently based on a scoring system. The Gradio interface also makes the project more interactive and easier to use.
 
 Overall, this project helped me understand how computational thinking and algorithms can be used to solve practical problems in Python.
+## Hugging Face App
+
+You can access the deployed application here:
+
+[Open the App](https://huggingface.co/spaces/BIll06121/cisc121-final-project-final2))
