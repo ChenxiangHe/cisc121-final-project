@@ -117,13 +117,14 @@ This test checks if the program can correctly calculate scores, sort students, a
 **Expected Result:** Students are ranked correctly and the top 3 are shown.
 
 **Actual Result:** Passed
-
+![Normal](test-normal.png)
 ### Test 2: One Student Input
 This test checks if the program still works correctly when only one student is entered.
 
 **Expected Result:** The single student should still appear in the ranking and Top 3 section.
 
 **Actual Result:** Passed
+![One](test-one-student.png)
 
 ### Test 3: Same Score Input
 This test checks whether the program can still sort and display students when some scores are equal.
@@ -131,14 +132,15 @@ This test checks whether the program can still sort and display students when so
 **Expected Result:** Students with the same score should still be displayed correctly.
 
 **Actual Result:** Passed
-
+### Same Score Case
+![Same](test-same-score.png)
 ### Test 4: Bad Input
 This test checks whether the program can detect invalid input such as non-numeric GPA values and display an error message instead of crashing.
 
 **Expected Result:** The program should show an error message instead of breaking.
 
 **Actual Result:** Passed
-
+![Bad](test-bad-input.png)
 ## Features
 
 This project includes the following features:
